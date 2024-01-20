@@ -1,0 +1,9 @@
+{
+	"name": "projectpro-datafactory",
+	"location": "australiasoutheast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e9716487-6fcf-43e9-9cc4-4ff8d65d6059",
+		"tenantId": "7e43930c-cb41-47d1-aec7-376d573bcc04"
+	}
+}
